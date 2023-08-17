@@ -27,8 +27,8 @@ Classification Project Rakamin Academy
 
 ## 🌱 Modelling
 
-### **1. Evaluation metrics**
-
+### **1. Evaluation Metrics**
+<br> ![alt text](https://github.com/JodhiKrisantus/Predict-Customer-Clicked-Ads-Classification/blob/master/Resource%20Image/Evaluation%20Matrics.png "Evaluation Metrics")<br>
 
 ### **2. Feature Importance**
 <br> ![alt text](https://github.com/JodhiKrisantus/Predict-Customer-Clicked-Ads-Classification/blob/master/Resource%20Image/Feature%20Importance.png "Feature Importance")<br>
@@ -39,3 +39,4 @@ The features that most influence the probability of Clicked Ads are:
 - Income Area (Customer Income)
 
 ## 🌱 Business Recommendations
+- Companies can focus on providing relevant advertisements to customers who have website usage time under 70 minutes and internet usage under 180 minutes.
